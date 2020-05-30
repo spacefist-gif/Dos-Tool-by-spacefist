@@ -1,0 +1,4 @@
+Licenses.
+
+Die kompletten Rechte an diesem Code sind spacefist vorbehalten. Das Tool darf frei benutzt werden aber ich spacefist übernehme keine Verantwortung für Falsche Verwendungen.
+
